@@ -1,6 +1,6 @@
 # The Playing God App
 
-Just a simple react app showing how to use the `useReducer` hook
+Just a simple React app showing how to use the `useReducer` hook
 to manage a global-ish state object.
 
 ### Inspiration
@@ -11,7 +11,7 @@ blog post.
 ### What this is
 
 This app is basically a combination of an unordered list of people, an input text field
-and some buttons for various actions.
+and some buttons for performing various actions.
 
 Each person has the following properties:
 
