@@ -19,7 +19,7 @@ Each person has the following properties:
   - Life status (alive or dead)
   - Life count (a number signifying how many times you can be revived if you're
     dead)
-  - Wallet (a number indicating how many coins you have - 1 coin can buy 1 life)
+  - Wallet (a number indicating how many coins you have, 1 coin can buy 1 life)
 
 Next to each peson's properties is a row of three `action` buttons: KILL,
 REVIVE and BUY LIFE. The roles are self explanatory. Each button's `active`
@@ -37,7 +37,7 @@ button will only be active as long as there is some content in the text field.
 
 1. Clone this repo: `git clone https://github.com/dekarpaulvictor/The-Playing-God-App.git`
 2. Change to app's root directory and run `yarn start` or `npm run start`
-3. Access the app on `http:localhost:3000` unless port 3000 is occupied
+3. Access the app on `http:localhost:3000`, unless port 3000 is occupied
 
 ### To do
 
