@@ -33,11 +33,13 @@ You can create a new life by entering a person's name in the only text field
 available and clicking on the CREATE button. And, as expected, the CREATE
 button will only be active as long as there is some content in the text field.
 
-### Installation
+### Running
 
 1. Clone this repo: `git clone https://github.com/dekarpaulvictor/The-Playing-God-App.git`
-2. Change to app's root directory and run `yarn start` or `npm run start`
-3. Access the app on `http:localhost:3000`, unless port 3000 is occupied
+2. Change to app's root directory and run `yarn` or `yarn add` or `npm install`
+   to install the app's dependencies
+3. Run `yarn start` or `npm run start`
+4. Access the app on `http:localhost:3000`, unless port 3000 is occupied
 
 ### To do
 
